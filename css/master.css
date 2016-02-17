@@ -34,3 +34,17 @@
 .button:hover {
   background-color: #E6E6E6;
 }
+
+img {
+  margin: 2vh 0;
+}
+
+.join {
+  background-color: #e8e8e8;
+}
+
+.join button {
+  display: block;
+  margin: auto;
+  width: 95%;
+}
