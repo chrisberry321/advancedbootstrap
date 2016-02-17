@@ -48,3 +48,13 @@ img {
   margin: auto;
   width: 95%;
 }
+
+.image {
+  display: block;
+  margin: auto;
+  margin-bottom: 18px;
+}
+
+footer {
+  margin: 5vh 0;
+}
